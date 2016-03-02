@@ -8,7 +8,6 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import android.widget.LinearLayout;
 import android.widget.OverScroller;
-import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 
 import com.jiangjieqiang.goodsdemo.R;
@@ -93,8 +92,8 @@ public class GoodsLayout extends LinearLayout{
                 float dy = y - mLastY;
                 //view2隐藏或者
                 //topView隐藏，&&view2到达屏幕顶端，&&用户往下滑动&&滑动速度大于最小滑动速度，layout拦截事件
-                if (descLayout.  ||
-                        ())
+//                if (descLayout.  ||
+//                        ())
 
 
 
